@@ -1,0 +1,7 @@
+# BASICS FOR AVR ATMEGA328p
+
+
+ - USART
+ - ADC
+ - I2C 
+ - TIMERS
